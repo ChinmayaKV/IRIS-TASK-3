@@ -33,4 +33,4 @@ The redesigned dashboard transforms a static site into a fully responsive, inter
  **Vite** 
  **Tailwind CSS** 
 
- **GitHub + Lovable.dev** 
+ 
